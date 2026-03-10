@@ -88,7 +88,7 @@ The dashboard visualizes:
 
 ### Dashboard Preview
 
-![Dashboard](dashboards/powerbi_dashboard.png)
+![Dashboard](dashboards/powerbi-dashboard.png)
 
 ---
 
